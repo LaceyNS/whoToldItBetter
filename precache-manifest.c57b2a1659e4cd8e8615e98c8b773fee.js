@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d082ede5ca65cef9c98eb539ec62775",
+    "revision": "31911f5456177b13ea78749ccccc5ac0",
     "url": "/whoToldItBetter/index.html"
   },
   {
-    "revision": "2d77eff8a425a91c347f",
+    "revision": "b84b061bb8559ad33383",
     "url": "/whoToldItBetter/static/css/main.b20d4091.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whoToldItBetter/static/js/2.681ac819.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d77eff8a425a91c347f",
-    "url": "/whoToldItBetter/static/js/main.add21b5a.chunk.js"
+    "revision": "b84b061bb8559ad33383",
+    "url": "/whoToldItBetter/static/js/main.68c22bb4.chunk.js"
   },
   {
     "revision": "82a7a2c0dc173b87ee6e",
